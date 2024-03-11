@@ -11,6 +11,7 @@ Includes sections for Home, About Us, Our Team, and a Contact Form.
 ## Home Section:
 
 The Home section of my site is using a 4000 Javascript display function to start showing site information.
+In all sections you can find a botton at the botton of the page where you can return to the top of the page
 
 ![Screenshot 03/11/2024 132150](https://github.com/felipesimao1/Architect_js/assets/31260554/a4c5b22b-bb9d-41bc-be8f-c94a6fd2f514)
 
@@ -24,13 +25,19 @@ It also offers a hamburger button where you can see all sections of the website.
 In the About Us section, the user finds information such as interior, exterior, design, decoration, planning and execution.
 I used icons for each item.
 
+![Screenshot 2024-03-11 132248](https://github.com/felipesimao1/Architect_js/assets/31260554/642a8fc8-78fe-4464-a294-e5639dabd019)
+
 ## Our team section:
 
 In this section, a javascript movement was inserted in the companies' team.
 The Read More button returns to the top of the page.
 
+![Screenshot 2024-03-11 132257](https://github.com/felipesimao1/Architect_js/assets/31260554/3459cfbd-f59e-45b2-a4bf-1ac489b89bb1)
+
 ## Contact Section:
 This form was designed to provide the user with basic information such as name, email and any text message.
+
+![Screenshot 2024-03-11 132334](https://github.com/felipesimao1/Architect_js/assets/31260554/7838ab67-e240-44ae-b107-7a26a9e7ccff)
 
 It is not possible to enter invalid data.
 
@@ -38,7 +45,7 @@ It is not possible to enter invalid data.
 
 After sending the information, the page will return a message to the user informing that the message has been sent.
 
-![Screenshot 11/03/2024 133659](https://github.com/felipesimao1/Architect_js/assets/31260554/7e9ac0eb-9cb1-4fe4-9a68-541c3ae88b84)
+![Screenshot 2024-03-11 133659](https://github.com/felipesimao1/Architect_js/assets/31260554/1f6b16d4-0de7-4ad1-ab82-552999f9339a)
 
 ## How to use this website?
 
