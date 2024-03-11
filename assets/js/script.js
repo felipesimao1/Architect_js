@@ -20,10 +20,10 @@ document.getElementById('contact-form').addEventListener('submit', function(even
   var email = document.getElementById('email').value;
   var message = document.getElementById('message').value;
 
-  // Validando se os campos estão preenchidos
+
   if (!fullname || !email || !message) {
-      event.preventDefault(); // Impede o envio do formulário
+      event.preventDefault(); 
   } else {
-      alert('Mensagem enviada com sucesso!');
+      alert('Your message has been sent successfully!');
   }
 });
