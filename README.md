@@ -8,17 +8,6 @@ The HTML code represents a responsive Architect website with a clean, modern des
 
 Includes sections for Home, About Us, Our Team, and a Contact Form.
 
-![Screenshot 11/03/2024 132204](https://github.com/felipesimao1/Architect_js/assets/31260554/59c652df-dbe9-4316-b8ca-1296d876d356)
-
-## Sections
-
-1. **Home page**: intro banner with a call to action button.
-2. **About us**: Information about the company and its services.
-3. **Our Team**: Profiles of key team members with brief descriptions.
-4. **Contact**: A form for users to send questions.
-
-![Screenshot 11/03/2024 132226](https://github.com/felipesimao1/Architect_js/assets/31260554/31fde437-065b-4aa9-ba14-9136ec43af81)
-
 ## Home Section:
 
 The Home section of my site is using a 4000 Javascript display function to start showing site information.
