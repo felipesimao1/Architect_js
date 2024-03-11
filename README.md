@@ -36,12 +36,9 @@ The Read More button returns to the top of the page.
 
 ## Contact Section:
 This form was designed to provide the user with basic information such as name, email and any text message.
-
-![Screenshot 2024-03-11 132334](https://github.com/felipesimao1/Architect_js/assets/31260554/7838ab67-e240-44ae-b107-7a26a9e7ccff)
-
 It is not possible to enter invalid data.
 
-![Screenshot 11/03/2024 132334](https://github.com/felipesimao1/Architect_js/assets/31260554/c298df32-beb3-427d-bc5f-6d7ebab519ac)
+![Screenshot 2024-03-11 132334](https://github.com/felipesimao1/Architect_js/assets/31260554/7838ab67-e240-44ae-b107-7a26a9e7ccff)
 
 After sending the information, the page will return a message to the user informing that the message has been sent.
 
@@ -51,4 +48,4 @@ After sending the information, the page will return a message to the user inform
 
 You can clone this repository and make the changes you want to learn by yourself.
 ```bash
-git clone [https://github.com/felipesimao1/Architect_js]
+git clone [https://github.com/felipesimao1/Architect_js
